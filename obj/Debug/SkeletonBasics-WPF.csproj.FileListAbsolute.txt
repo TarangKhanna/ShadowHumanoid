@@ -1,0 +1,28 @@
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Sherstein\Desktop\FAAST-1.0\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Sherstein\Desktop\FAAST-1.0\Shadowing\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Sherstein\Desktop\FAAST-1.0\Shadowing\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Sherstein\Desktop\Shadowing\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Sherstein\Desktop\Shadowing\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\MainWindow.baml
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\MainWindow.g.cs
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\App.g.cs
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Sherstein\Desktop\Shadowing\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Sherstein\Desktop\New folder (5)\Shadowing\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Sherstein\Desktop\New folder (5)\Shadowing\obj\Debug\SkeletonBasics-WPF.pdb
