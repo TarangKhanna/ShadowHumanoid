@@ -1,7 +1,7 @@
 ShadowHumanoid
 ==============
 The goal of this project is to create a humanoid robot that can follow a humans movements; thus shadowing a human. 
-I was inspired by the movie Real Steel to make this project. This is built upon the skeleton example provided by the kinect SDK for windows. 
+I was inspired by the movie Real Steel to make this project. This is built upon the skeleton example provided by the kinect SDK for windows. This project was made during my internship at EduKinect and this has been written in C#, which I learnt during the internship(2013 summer).
 What this program does-
 
 1) It gets the skeleton data from the kinect using the kinect SDK. 
@@ -12,3 +12,6 @@ What this program does-
 
 
 For details please refer to the program. 
+
+NOW has been properly Uploaded to GitHub-Requires Kinect SDK And Dynamixel and ofcourse Visual Studio.
+
