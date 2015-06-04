@@ -13,5 +13,5 @@ What this program does-
 
 For details please refer to the program. 
 
-NOW has been properly Uploaded to GitHub-Requires Kinect SDK And Dynamixel and ofcourse Visual Studio.
+NOW has been properly Uploaded to GitHub-Requires Kinect SDK And Dynamixel and prefers the Visual Studio IDE.
 
