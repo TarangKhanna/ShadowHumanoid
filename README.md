@@ -13,5 +13,9 @@ What this program does-
 
 For details please refer to the program. 
 
-NOW has been properly Uploaded to GitHub-Requires Kinect SDK And Dynamixel and prefers the Visual Studio IDE.
+Requires Kinect SDK And Dynamixel and prefers the Visual Studio IDE.
+
+TODO:
+
+Update for universal winodws platform app.
 
